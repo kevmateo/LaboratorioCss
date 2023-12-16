@@ -5,12 +5,12 @@
 
 @font-face {
   font-family: 'mifuente-inter';
-  src: url(./font/Inter-Regular.ttf);
+  src: url(../font/Inter-Regular.ttf);
 }
 
 @font-face {
   font-family: 'fuente-dos';
-  src: url(./font/Romanesco-Regular.ttf);
+  src: url(../font/Romanesco-Regular.ttf);
 }
 
 .nav-bar {
